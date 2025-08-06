@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hiky", "Hiky.csproj", "{EACDFA6D-303A-7475-8E20-9BB05009B61C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EACDFA6D-303A-7475-8E20-9BB05009B61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACDFA6D-303A-7475-8E20-9BB05009B61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACDFA6D-303A-7475-8E20-9BB05009B61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACDFA6D-303A-7475-8E20-9BB05009B61C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {824D4879-B5DF-420F-B75B-ECF06C9AF8CE}
+	EndGlobalSection
+EndGlobal
