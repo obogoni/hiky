@@ -156,9 +156,6 @@ The application stores device configuration locally and uses it for subsequent A
 - `Services/` - Business logic services for each command
 - `EventListener/` - Event listening functionality
 
-### Building
-```pos
-
 ## Troubleshooting
 
 1. **Connection Issues**: Ensure the device is accessible and the configuration is correct using `configure-device -s`
